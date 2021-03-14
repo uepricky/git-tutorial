@@ -1,2 +1,3 @@
 # Gitチュートリアル  
-- add feature-a
+- add feature-a  
+- fix-B
