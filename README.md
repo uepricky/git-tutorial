@@ -1,2 +1,2 @@
 # Gitチュートリアル  
-- add feature-a
+- add feature-A
